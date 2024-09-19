@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <style>
+            p{color: blue;
+            }
+            .red-text{
+            color: red;
+            }
+        </style>
+    </head>
+<body>
+    <p class="red-text">Hello World!</p>
+</body>
+</html>
